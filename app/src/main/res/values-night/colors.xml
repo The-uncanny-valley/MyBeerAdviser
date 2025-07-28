@@ -2,6 +2,6 @@
 <resources>
     <color name="button_text">#FF000000</color>
     <color name="button_primary">#FFFFFFFF</color>
-    <color name="background">#0C0C0C</color>
+    <color name="background">#FF0C0C0C</color>
     <color name="text">#FFFFFFFF</color>
 </resources>
