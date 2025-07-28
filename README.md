@@ -9,8 +9,8 @@ This version of the app is written in **Kotlin** and recreates the same function
 - Select beer color using a dropdown menu (`Spinner`)
 - Get beer brand suggestions based on your selection
 - Styled UI with custom fonts and background
-- Splash screen with custom launcher icon
-- Improved accessibility and touch targets
+- Splash screen with
+- Dark theme support
 
 ## Technologies Used
 
@@ -22,11 +22,18 @@ This version of the app is written in **Kotlin** and recreates the same function
 
 ## Screenshots
 
-<p align="center">
-  <img src="Screenshot_1.png" alt="Main Screen" width="250"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Screenshot_2.png" alt="Beer Results" width="250"/>
-</p>
+<table>
+  <tr>
+    <td><img src="media/activity_splash.png" alt="Splash Screen (Light)" width="200"/></td>
+    <td><img src="media/activity_main.png" alt="Main Screen (Light)" width="200"/></td>
+    <td><img src="media/activity_splash_night.png" alt="Splash Screen (Dark)" width="200"/></td>
+    <td><img src="media/activity_main_night.png" alt="Main Screen (Dark)" width="200"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Light Theme</td>
+    <td colspan="2" align="center">Dark Theme</td>
+  </tr>
+</table>
 
 ## Getting Started
 
@@ -35,7 +42,7 @@ To build and run the project locally:
 1. Clone this repository:
    
 ```bash
-git clone https://github.com/The-uncanny-valley/BeerAdviser-Kotlin
+git clone https://github.com/The-uncanny-valley/MyBeerAdviser
 ```
 
 2. Open the project in Android Studio
