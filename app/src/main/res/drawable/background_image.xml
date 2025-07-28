@@ -3,9 +3,10 @@
     android:height="932dp"
     android:viewportWidth="430"
     android:viewportHeight="932">
+  <!-- background -->
   <path
-      android:pathData="M0,0h429v933h-429z"
-      android:fillColor="#ffffff"/>
+      android:pathData="M0,0h430v932h-430z"
+      android:fillColor="@color/background" />
   <path
       android:pathData="M397,35m-150,0a150,150 0,1 1,300 0a150,150 0,1 1,-300 0"
       android:fillColor="#F4C314"/>
