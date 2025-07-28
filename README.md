@@ -35,7 +35,7 @@ To build and run the project locally:
 1. Clone this repository:
    
 ```bash
-git clone https://github.com/The-uncanny-valley/BeerAdviser-Kotlin
+git clone https://github.com/The-uncanny-valley/MyBeerAdviser
 ```
 
 2. Open the project in Android Studio
